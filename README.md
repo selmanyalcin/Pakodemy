@@ -1,25 +1,23 @@
 # Pakodemy
 
 # Proje Özeti
-Deneyapta proje haftası için geliştirdiğimiz Bursa Uygulamasında toplu taşıma,Bursa'dan haberler ve Bursa'daki etkinlikler gibi pek çok farklı şeyi birleştirip bir araya getirerek gelişmiş komple bir Belediye Uygulaması geliştirmeyi amaçladık.Aynı zamanda uygulamamıza toplu taşıma ile yol tarifi alma,inmeniz gereken durağa geldiğinzde sizi uyarma gibi yenilikçi özellikler de ekledik.Aynı zamanda Bursa'daki gezilecek yerlerin,Restoranların,Parkların,Sosyal tesislerin de insanlar tarafından kolayca bulunabilmesini sağlamak için bu tarz yerleri listeleyip özel yol tarifleri hazırladık.Bu sayede insanlar gidip haftasonlarını geçirebilecekleri yerleri veya Bursa'daki gezilecek yerleri daha kolay keşfedebilecekler.Ayrıca Restoran,Kafe vb. yerlerin bu şekilde listelenmesi Bursa'daki işletmelere iyi bir reklam sağlayabilir ve hem belediyeye ek gelir hem de işletmelere müştelerini arttırma fırsatı sunabilir.
+Pakodemy ülkemizdeki LGS ve YKS sınavlarına hazırlanan öğrencilere online soru çözüm,online deneme,soru çözüm videoları,konu anlatım videoları vb. pek çok hizmet sunan bir dijital platform.Biz de bu platformu kurucusuyla ortak bir şekilde öğrencilerin aylık bir abonelik ücreti karşılığında daha fazla soruya erişim sağlayabilecekleri şekilde ve ders çalışmalarına olumlu katkı verecek pek çok farklı özellik ekleyerek geliştirmeyi planlıyoruz.İşe de eklenebilecek özellikleri not alarak ve demo bir arayüz geliştirerek başladık.Burda da gördüğünüz uygulama arayüzü bu demoya ait.
 
-# Anasayfa
-Anasayfada Bursa'da gerçekleşen önemli olayları ve haberleri takip edebilir,öne çıkan pek çok kişinin katılmayı tercih ettiği etkinlikleri görebilir ve o gün içerisinde pek çok kişnini gitmeyi tercih ettiği yerleri "Öne Çıkan Yerler" sekmesinde görebilirsiniz.
+# Dersler
+Dersler sayfasında videoda da görüldüğü üzere pek çok farklı ders seçeneği bulunmakta.Öğrenciler bu sayfadaki ders seçeneklerinden diledikleri dersi seçerek diledikleri yayınevinden bu dersin sorularını çözebilecekler.Bu özelliğin kullanılabilmesi için belli bir abonelik ücreti ödenmesi gerekecek olsa da bir test kitabına 100 lira vermektense pek çok sorunun olduğu bir platforma daha az bir ücret vermek tüm öğrenciler için daha ekonomik olacaktır.Aynı zamanda dersler sayfasında öğrenciler dilerlerse konu anlatım videolarını izleyerek konuları pekiştirebilecek dilerlerse online denemelere katılıp sıralamalarını görebilecekler.
 
-# Etkinlikler
-Etkinlikler sayfasından devlet tiyatroları,konserler,festivaller gibi Bursa'daki pek çok etkinliği takip edebilir ve bu etkinlikler için bilet alabilirsiniz.
+# İstatistikler
+İstatistikler sayfası öğrencilerin durumlarını takip etmelerini sağlayan pek çok önemli verinin grafikler halinde gösterildiği bir sayfa.Bu sayfa üzerinde öğrenciler günlük haftalık çözdükleri soru sayılarını,deneme netlerini,deneme sıralamalarını,soru çözüm süreleri gibi pek çok önemli veriyi görebilecekler.Bu istatistiklere göre de durumlarını ve gelişimlerini takip etmeleri çok daha kolay olacak.
 
-# Ulaşım
-Ulaşım sayfasında gideceğiniz her türlü yere toplu taşıma kullanarak nasıl gidebileceğinizi gösteren yol tariflerine ulaşabilirsiniz.Aynı zamanda "Harita İndir" seçeneğini de kullanarak Bursa'nın çeşitli yerlerinin haritasını indirip çevrimdışı olduğunuz zamanlarda da yol tarifi almaya devam edebilirsiniz.Ayrıca dilerseniz "Beni Uyandır" seçeneğini kullanarak inmeniz gereken durağa geldiğinizde bildirim alabilir veya telefonunuzu titreştirebilirsiniz.Bu sayede dalıp gitme veya uyuyakalma gibi durumlarda durak kaçırma sorunundan kurtulabilirsiniz.
+# Forum
+Forum sayfası öğrencilerin çalışma disiplini,sınav psikolojisi,bölüm seçimi gibi konularda birbirlerine danışabilecekleri aynı zamanda çözemedikleri veya çözümünü anlayamadıkları soruları attıkları bir yer olacak.Bu sayede öğrencilerin kararlarını almaları ve çözemedikleri soruları anlamaları çok daha kolay olacak.
 
-# Konumlar
-Konumlar sayfasında diğer pek çok kişinin gitmeyi tercih ettiği öne çıkan yerleri görüntüleyebilirsiniz.Aynı zamanda Bursa'nın çeşitli ilçeleri ve semtlerindeki Restoran,Park,Kütüphane,Sosyal Tesisler hakkında bilgilere,toplu taşımayla veya toplu taşıma kullanmadan bu yerlere nasıl gidebileceğinizi gösteren yol tariflerine ve diğer kişilerin bu yerler ile ilgili ne tür değerlendirmelerde bulunduğunu görebilirsiniz.
+# Arkadaşlar
+Ders çalışma sürecinde arkadaşlarla birlikte onların da durumlarını görerek gitmek öğreciler için çok faydalı olabiliyor.Uygulamada bulunan arkadaşlar sayfasında da arkadaş listenizde bulunan arkadaşlarınızın ne kadar soru çözdüklerini kendinizle karşılaştırmalı olarak görebileceksiniz.Aynı zamanda arkadaşlarınızı kurduğunuz gruplara ekleyebilecek ve onlarla gerçek zamanlı bir şekilde soru çözerek yarışabileceksiniz.
 
-# Otobüsüm Nerede?
-"Otobüsüm Nerede?" sayfası üzerinden durakta otobüs beklerken otobüsün gelmesine kaç dakika kaldığı,otobüsünüzün nerede olduğu gibi bilgileri görebilirsiniz.
+# Gruplar
+Gruplar sayesinde kendi arkadaşlarınızla gruplar kurup bu grup üzerinde birbirinizin deneme sıralamarını,çözdüğünüz soruları karşılaştırmalı olarak görebileceksiniz ayrıca grupta çözemediğiniz soruları da atarak birbirinize yardımcı olabileceksiniz.
 
-# Temassız
-Temassız sayfası üzerinde toplu taşıma kod okut kısmındaki QR kodunuzdan toplu taşıma kullanacağız seferlerde QR kodu okutup hızlı ve kolay bir şekilde Akbil basma işlemini gerçekleştirebilirsiniz.Aynı zamanda etkinlikler için aldığınız biletleri görüntüleyip bu etkinliklerin de QR kodlarını okutup hızlı ve kolay bir biçimde etkinlik alanına geçiş sağlayabilirsiniz.
+# Profilim
+Profilim kısmından tıpkı diğer pek çok uygulamada olduğu gibi profil fotoğrafınız,kullanıcı adınız vb. bilgileri düzenleyebilecek,uygulama ayarlarını yapabilecek ve puanınız gibi değerleri görebileceksiniz.Ayrıca okullar ve öğretmenler de gruplar kurarak öğrencilerinin durumunu çok daha yakından takip edebilecekler.
 
-# Online Ödemeler
-Online ödemeler sayfası sayesinde Bursa'daki etkinliklere harcadığınız paraları aynı zamanda Bursa Kartınızla yaptığınız dolum ve toplu taşıma işlemleri gibi işlemlerin ücretlerini takip edebileceksiniz.
